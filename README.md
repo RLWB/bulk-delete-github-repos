@@ -11,8 +11,10 @@ python main.py
 
 ![ui](./assets/imgs/ui.jpg)
 
-**_NOTE:_**  how to get personal access token
+**_NOTE:_**  How to get personal access token
+
 1.open GitHub [setting](https://github.com/settings/profile) page
 ![setting](./assets/imgs/setting.jpg)
+
 2.open `Developer settings`, choose `Personal access tokens` -> `Tokens` ->click `Generate new token` to generate token.
 ![token](./assets/imgs/token.jpg)
