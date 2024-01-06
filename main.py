@@ -45,10 +45,6 @@ token_label.pack()
 token_entry = tk.Entry(window, show='*')
 token_entry.pack()
 
-
-
-
-
 delete_button = tk.Button(window, text='Delete Repositories',command=delete_repos)
 delete_button.pack()
 
